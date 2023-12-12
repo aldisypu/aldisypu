@@ -1,10 +1,10 @@
-![banner](https://github.com/aldisypu/aldisypu/blob/main/images/banner.gif)
+![banner](images/banner.gif)
 
 Hi there! I'm a passionate Back End Developer with a knack for crafting robust and efficient solutions. My primary programming language is Go.
 
 
 
-### Socials:
+### Socials: <img src="images/cloud.gif" alt="cloud" width="200" align="right"/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldisyahputra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alsyodi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alsyodi)
 
 ### Tech Stack:
